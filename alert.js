@@ -1,1 +1,1 @@
-alert( 'ß – JavaScript!' );
+alert( 'Ð¯ â€“ JavaScript!' );
